@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+body{
+    background-color: rgb(43, 59, 131);
+}
+
+h1{
+    font-family:  'Press Start 2P', cursive ;
+    font-size: 25px;
+}
+.card{
+padding: 7% 10%;
+margin: 7% 30%;
+text-align: center;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.num-input{
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.num-input{
+ border-radius: 5px;
+ border: none;
+ margin: 1%;
+}
+.btn{
+ margin-top: 7% ;
+ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ 
+}
