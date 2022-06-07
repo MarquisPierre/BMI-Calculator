@@ -29,7 +29,7 @@ app.post("/", (req,res)=>{
 
     console.log(bmi)
 
-   res.send("Your BMI is " + bmi) 
+   res.send("<h1>Your BMI is </1>" + bmi) 
 })
 
 
